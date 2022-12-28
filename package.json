@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "hardhat": "^2.12.4",
+    "vit": "^0.0.1"
+  }
+}
